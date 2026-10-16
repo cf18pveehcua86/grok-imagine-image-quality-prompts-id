@@ -111,7 +111,6 @@ That is the point. Keep the structure (subject + light + framing + setting + fin
 
 This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
 <!-- /related-repos:auto -->
-
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
